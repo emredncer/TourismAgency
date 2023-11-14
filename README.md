@@ -1,5 +1,4 @@
 # TourismAgency
-Sure, here's the information in English:
 ---
 
 # Tours Agency System
