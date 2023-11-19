@@ -2,58 +2,24 @@
 ---
 
 # Tours Agency System
-
-This project is designed to manage the operations of a tour agency. It encompasses functionalities including tour reservations, customer information management, creation of tour packages, and other related tasks.
-
-## Objective
-
-The aim of this project is to accomplish the following functions:
-
-- Establish a registration system for tour reservations.
-- Manage and update customer information.
-- Create, edit, and manage tour packages.
-- Provide authorization and access control for agency personnel.
-
-## Technologies Used and Layered Architecture
-
-This project follows a layered architecture and includes the following components:
-
-### 1. User Interface (UI)
-
-The user interface is accessible to agency personnel or administrators through a web interface or application.
-
-### 2. Business Logic Layer
-
-This layer manages business rules, processes customer requests, performs database operations, and implements other functionalities.
-
-### 3. Database Layer
-
-The database layer is where data is stored and accessed. Data such as customer information, tour reservations, and tour packages are stored within this layer.
-
-### 4. Integration Layer
-
-The integration layer communicates with external services or APIs. It manages access to external resources such as payment processing and map services.
-
-## Project Structure
-
-The project is organized into separate folders for each layer:
-
-- `UI`: Contains user interface files and components.
-- `BusinessLogic`: Includes classes and functions related to business logic.
-- `Database`: Contains database operations and models.
-- `Integration`: Houses files and helper classes for external service integrations.
+Video anlatım:
+https://www.loom.com/share/7edec09e0f704842a567b9fb54bf2898?sid=6e97508e-84af-453f-8069-73e576790415
 
 ---
 sql queries added by .sql file!
 ---
 
-This README provides an overview of the "Tours Agency System" project, outlining its objectives, the technologies used, and its layered architecture. Specific details regarding the project and installation instructions could be added for further clarification.
 
 
-<img width="1359" alt="Ekran Resmi 2023-11-12 23 54 20" src="https://github.com/emredncer/TourismAgency/assets/108138943/b786e2c3-d9c5-4dee-ac0a-9bfe325cf796">
-<img width="499" alt="Ekran Resmi 2023-11-12 23 57 00" src="https://github.com/emredncer/TourismAgency/assets/108138943/f85048fd-fbce-4b70-9d87-f170a0edf2b9">
-<img width="404" alt="Ekran Resmi 2023-11-12 23 55 51" src="https://github.com/emredncer/TourismAgency/assets/108138943/02a40e11-1632-47db-aa49-e1f0a7e90f86">
-<img width="1309" alt="Ekran Resmi 2023-11-12 23 54 58" src="https://github.com/emredncer/TourismAgency/assets/108138943/9513433a-2028-4fb9-9f40-bf1b2ad00233">
-<img width="499" alt="Ekran Resmi 2023-11-12 23 56 32" src="https://github.com/emredncer/TourismAgency/assets/108138943/159c42b6-9664-49ca-a67d-67f8dcbdd1c1">
-<img width="499" alt="Ekran Resmi 2023-11-12 23 57 06" src="https://github.com/emredncer/TourismAgency/assets/108138943/74cfc22d-03c0-417b-979b-241ce78ee8c3">
-<img width="499" alt="Ekran Resmi 2023-11-12 23 56 54" src="https://github.com/emredncer/TourismAgency/assets/108138943/f8623c19-3783-44be-a4e0-6fe53c8f25bd">
+
+<img width="1430" alt="Ekran Resmi 2023-11-19 16 58 27" src="https://github.com/emredncer/TourismAgency/assets/108138943/7bb0a756-325b-4c79-9e6a-5eab54152f59">
+<img width="1430" alt="Ekran Resmi 2023-11-19 16 34 21" src="https://github.com/emredncer/TourismAgency/assets/108138943/cfc1c817-28a5-44ba-a7ba-b3cebd7e06d8">
+<img width="1430" alt="Ekran Resmi 2023-11-19 15 23 33" src="https://github.com/emredncer/TourismAgency/assets/108138943/13aa89a4-829d-448d-a51f-275aa35281aa">
+<img width="1430" alt="Ekran Resmi 2023-11-19 15 21 32" src="https://github.com/emredncer/TourismAgency/assets/108138943/ce743869-976f-4d9f-9963-1811a0c39b2c">
+<img width="1430" alt="Ekran Resmi 2023-11-19 15 21 07" src="https://github.com/emredncer/TourismAgency/assets/108138943/f31f25ab-2098-4272-90de-ff1dfd6bf542">
+<img width="1430" alt="Ekran Resmi 2023-11-19 15 10 31" src="https://github.com/emredncer/TourismAgency/assets/108138943/d87e9d4f-60c3-4e5f-9f89-ccdb6c1ddc58">
+<img width="1430" alt="Ekran Resmi 2023-11-19 15 10 18" src="https://github.com/emredncer/TourismAgency/assets/108138943/8eadd8c1-65e6-42b9-91fa-033ab4e07451">
+<img width="1430" alt="Ekran Resmi 2023-11-19 01 34 50" src="https://github.com/emredncer/TourismAgency/assets/108138943/0c4e2855-8226-4d3e-9545-a47d54b24798">
+<img width="1430" alt="Ekran Resmi 2023-11-19 01 34 35" src="https://github.com/emredncer/TourismAgency/assets/108138943/b299e90a-a2ed-49e7-9de2-09cffb8e7d05">
+<img width="1430" alt="Ekran Resmi 2023-11-19 01 33 44" src="https://github.com/emredncer/TourismAgency/assets/108138943/77a2e5e2-bd6a-42d6-b929-2ac4fffc9c79">
+<img width="1430" alt="Ekran Resmi 2023-11-19 01 17 09" src="https://github.com/emredncer/TourismAgency/assets/108138943/05ff7515-ca5a-444b-92ce-861d13234661">
